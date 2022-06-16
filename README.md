@@ -12,7 +12,7 @@
    - Battery
 2. Hides on hover, no disturbance on screen.
 3. Accurate.
-4. Precize to decimals.
+4. Precise to decimals.
 
 ## Pictures:
 1. ![image](https://user-images.githubusercontent.com/89027512/173860553-67b86757-0fcc-4188-802f-8e1b681804e7.png)
